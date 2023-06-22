@@ -2,7 +2,7 @@
 
 Thanks for trying out the beta of Cursor, a VSCode-based code editor built for pair-programming with AI.
 
-**To get started, click on `projects/` and then the folder of your favoriate language (e.g. `projects/python`).**
+**To get started, click on `projects/` and then the folder of your favorite language (e.g. `projects/python`).**
 
 ## Importing Settings
 
